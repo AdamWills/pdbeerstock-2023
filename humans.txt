@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Adam Wills -- Developer -- @adamwillsdev
+
+# THANKS
+
+    Katie Sinkowski for providing assets!
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, TailwindCSS, Parcel
